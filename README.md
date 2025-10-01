@@ -11,7 +11,7 @@ The objective was to uncover insights that drive term deposit subscription rates
 	•	Records: 45,000+ entries
 	•	Features: Demographics, call campaign details, economic indicators, and customer subscription outcomes.
 
-🛠 Tools & Technologies
+# 🛠 Tools & Technologies
 	•	Python: Pandas, NumPy, Matplotlib, Seaborn (data cleaning & EDA)
 	•	Power BI: Interactive dashboards (slicers, drill-throughs, KPI cards, customer segmentation)
 
