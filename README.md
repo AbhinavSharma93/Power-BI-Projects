@@ -63,7 +63,3 @@ The analysis combines Python-based EDA with an interactive Power BI dashboard to
 ✅ Conclusion
 
 By combining EDA in Python and Power BI dashboards, this project highlights how targeted demographics and optimized call strategies can significantly boost term-deposit marketing conversions.
-
-🖼 Dashboard Screenshots
-
-Customer Segmentation Vie
